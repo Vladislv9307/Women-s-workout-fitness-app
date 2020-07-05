@@ -1,7 +1,7 @@
 [![runs with expo](https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.io/)
 
 This is an Expo (React Native Web) project
-This app is for women's fitness guide video app. It is from Thailand.
+This app is for women's fitness guide video app. It is from Thailand. 
 
 It can be used to build React applications for the web and for mobile all from one codebase
 
